@@ -6,6 +6,7 @@
       <li><NuxtLink to="/posts/1">Posts 1</NuxtLink></li>
       <li><NuxtLink to="/posts/2">Posts 2</NuxtLink></li>
       <li><NuxtLink to="/events">Events</NuxtLink></li>
+      <li><NuxtLink to="/secure/app">Secure</NuxtLink></li>
     </ul>
   </header>
 </template>
